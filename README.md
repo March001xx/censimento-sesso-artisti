@@ -12,3 +12,4 @@ _A partire dal database iniziale, per lo sviluppo del progetto su __Google Colab
 * _Viola Amadori_
 * _Marcello Fiumana_
 ## Licenza 
+_Creative Commons Zero v1.0 Universal_
